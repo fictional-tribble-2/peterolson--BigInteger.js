@@ -1,6 +1,6 @@
 # BigInteger.js [![Build Status][travis-img]][travis-url] [![Coverage Status][coveralls-img]][coveralls-url] [![Monthly Downloads][downloads-img]][downloads-url]
 
-[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/peterolson--BigInteger.js.svg)](https://www.staging.guardrails.io)
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/peterolson--BigInteger.js.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/peterolson--BigInteger.js.svg)](https://www.guardrails.io)
 
 [travis-url]: https://travis-ci.org/peterolson/BigInteger.js
 [travis-img]: https://travis-ci.org/peterolson/BigInteger.js.svg?branch=master
